@@ -1,0 +1,5 @@
+#define USERNAME "nathy"
+#define DEVICE_ID"ESP32"
+#define DEVICE_CREDENTAL"ESP32automation"
+#define SSID "lapton"
+#DEFINE SSDI_PASSWORD "0301601282m"
